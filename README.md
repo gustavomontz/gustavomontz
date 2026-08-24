@@ -1,16 +1,22 @@
-## Hi there 👋
+Product Designer who codes. Based in Brazil.
 
-<!--
-**gustavomontz/gustavomontz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design products. I build them. I ship them.
 
-Here are some ideas to get you started:
+Most designers stop at handoff. I don't. I take ideas from discovery and user research all the way to production-ready code — in React, TypeScript, and Tailwind CSS. When a problem needs a prototype fast, I use AI-assisted tools to validate it in hours, not days.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over 5 years of experience and 70+ projects delivered for enterprise clients like Bosch, DNV, Schneider Electric, Vivo, and Claro.
+
+---
+
+## What I bring to a team
+
+- **Design** — discovery, journey mapping, wireframing, prototyping, UI, design systems, handoff
+- **Code** — React, TypeScript, Tailwind CSS, Claude Code, Lovable
+- **Research** — usability testing, friction analysis, manual QA
+
+---
+
+## Where to find me
+
+- 🌐 [gustavomontes.com](https://www.gustavomontes.com/en)
+- 💼 [linkedin.com/in/gustavomontesux](https://linkedin.com/in/gustavomontesux)
