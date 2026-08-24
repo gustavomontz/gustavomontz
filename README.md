@@ -10,5 +10,5 @@ Over 5 years of experience and 70+ projects delivered for enterprise clients lik
 
 ## Where to find me
 
-- 🌐 [gustavomontes.com](https://www.gustavomontes.com/en)
-- 💼 [linkedin.com/in/gustavomontesux](https://linkedin.com/in/gustavomontesux)
+- 🌐 [Portfolio](https://www.gustavomontes.com/en)
+- 💼 [Linkedin](https://linkedin.com/in/gustavomontesux)
