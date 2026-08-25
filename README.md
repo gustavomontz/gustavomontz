@@ -1,4 +1,4 @@
-## Product Designer who codes. Based in Brazil.
+## Product Designer who codes.
 
 I design products. I build them. I ship them.
 
